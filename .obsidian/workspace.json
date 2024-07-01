@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_journal/korean-ginseng-chicken-soup.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_journal/korean-ginseng-chicken-soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_journal/korean-ginseng-chicken-soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_journal/korean-ginseng-chicken-soup.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "710667f17e45241f",
   "lastOpenFiles": [
+    "_journal/newinternet.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
+    "_journal/exocore-workflow.md",
+    "_journal/korean-ginseng-chicken-soup.md",
+    "_journal/jade-post.md",
+    "_daily/2022-05-11.md",
+    "index.md",
     "README.md",
     "readme.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
@@ -167,7 +174,6 @@
     "pages/navgraph.html",
     "pages/library.html",
     "pages/latest.html",
-    "index.md",
     "images/water.png",
     "images/urbit-sigils.png",
     "images/study-monk.png",
@@ -181,12 +187,6 @@
     "exocore/_templates/_daily.md",
     "exocore/_templates/_article.md",
     "_site/readme.md",
-    "_journal/newinternet.md",
-    "_journal/korean-ginseng-chicken-soup.md",
-    "_journal/jade-post.md",
-    "_journal/exocore-workflow.md",
-    "_journal/chinese-ginseng-chicken-tonic-soup.md",
-    "_daily/2022-05-11.md",
     "_articles/table test.md",
     "_articles/Writing with Exocore Syntax.md",
     "_articles/Using your Exocore.md",
