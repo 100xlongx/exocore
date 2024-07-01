@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/korean-ginseng-chicken-soup.md",
+                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/korean-ginseng-chicken-soup.md",
+                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/korean-ginseng-chicken-soup.md",
+                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/korean-ginseng-chicken-soup.md"
+                "file": "_journal/chinese-ginseng-chicken-tonic-soup.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "710667f17e45241f",
   "lastOpenFiles": [
+    "_journal/korean-ginseng-chicken-soup.md",
     "_journal/newinternet.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_journal/exocore-workflow.md",
-    "_journal/korean-ginseng-chicken-soup.md",
     "_journal/jade-post.md",
     "_daily/2022-05-11.md",
     "index.md",
